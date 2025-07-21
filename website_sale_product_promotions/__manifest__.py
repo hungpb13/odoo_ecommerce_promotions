@@ -5,9 +5,8 @@
     "category": "Website/eCommerce",
     "summary": "Product Combos, Upsell & Cross-sell, Auto Recommendations for eCommerce",
     "description": """
-        Hợp nhất tính năng của hai module:
-        - website_product_promotions: Combo sản phẩm, upsell, cross-sell, khuyến mãi website
-        - product_upsell_auto: Gợi ý upsell/cross-sell tự động, combo thông minh, recommendation
+        Combo sản phẩm, upsell, cross-sell, khuyến mãi website
+        Gợi ý upsell/cross-sell tự động, combo thông minh, recommendation
         
         Tính năng:
         - Tạo combo sản phẩm với giá ưu đãi, tự động áp dụng khi khách mua đủ combo
